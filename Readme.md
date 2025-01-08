@@ -17,7 +17,7 @@ A command-line interface tool that displays current weather and hourly forecast 
 ## Installation
 
 ```bash
-git clone 
+git clone https://github.com/Unnati-Gupta24/go-cli.git
 cd go-cli
 go mod tidy
 ```
